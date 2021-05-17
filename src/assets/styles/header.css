@@ -1,0 +1,30 @@
+.link {
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 5px;
+}
+
+button:hover {
+    color:#A36BC6;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    font-size: smaller;
+    border-bottom: white solid 2px;
+    border-top: white solid 2px;
+}
+
+.name{
+    text-align: center;
+    font-size: 32px;
+}
+
+@media screen and (max-width: 760px) {
+    .header {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+  }

@@ -1,0 +1,56 @@
+.port-page {
+    background-image: url(../imgs/about-background.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.pro-title {
+    text-align: center;
+    padding: 3%;
+    font-size: 48px;
+}
+
+
+.hide {
+    display: none;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.projects {
+    padding: 20px;
+    margin-left: 20px;
+    position: relative;
+    text-align: center;
+}
+
+.project {
+    border-radius: 15px;
+    width: 90%;
+    height: 300px;
+}
+
+.project:hover {
+    opacity: 20%;
+}
+
+.project:hover + .hide {
+    display: block;
+}
+
+.git-link {
+    margin-bottom: 10px;
+    background-color: black;
+    font-size: large;
+    color: white;
+}
+
+.git-link:hover {
+    color: #A36BC6;
+}

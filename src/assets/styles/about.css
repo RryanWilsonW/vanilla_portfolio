@@ -1,0 +1,47 @@
+.profile-pic {
+    width: 70%;
+    height: 70%;
+    border-radius: 50%;
+    border: black solid 5px;
+    margin-top: 70px;
+}
+
+.about-page {
+    background-image: url(../imgs/about-background.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+
+.intro {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    padding: 5%;
+    line-height: 30px;
+}
+
+li {
+    list-style: none;
+}
+
+.skills-edu {
+    padding-top: 30px;
+    line-height: 18px;
+}
+
+.hover:hover {
+    font-size: 25px;
+    border-radius: 15px;
+}
+.edg {
+    padding-bottom: 25px;
+    line-height: 25px;
+
+}
+
+@media screen and (max-width: 760px) {
+    .edg {
+      margin-top: 50px;
+    }
+  }

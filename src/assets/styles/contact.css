@@ -1,0 +1,19 @@
+.contact-page {
+    background-image: url(../imgs/about-background.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 7%;
+}
+
+.icons {
+    width: 80%;
+    border-radius: 50%;
+    margin-top: 90px;
+    margin-bottom: 85px;
+}
+
+.icons:hover {
+    opacity: 70%;
+}

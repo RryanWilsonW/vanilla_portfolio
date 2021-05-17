@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ryans_reacting_portfolio/static/css/main.661d2a5f.chunk.css",
+    "main.js": "/ryans_reacting_portfolio/static/js/main.a8a82a15.chunk.js",
+    "main.js.map": "/ryans_reacting_portfolio/static/js/main.a8a82a15.chunk.js.map",
+    "runtime-main.js": "/ryans_reacting_portfolio/static/js/runtime-main.a1198881.js",
+    "runtime-main.js.map": "/ryans_reacting_portfolio/static/js/runtime-main.a1198881.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ryans_reacting_portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8841dd91.chunk.js": "/ryans_reacting_portfolio/static/js/2.8841dd91.chunk.js",
+    "static/js/2.8841dd91.chunk.js.map": "/ryans_reacting_portfolio/static/js/2.8841dd91.chunk.js.map",
+    "static/js/3.ac775d8d.chunk.js": "/ryans_reacting_portfolio/static/js/3.ac775d8d.chunk.js",
+    "static/js/3.ac775d8d.chunk.js.map": "/ryans_reacting_portfolio/static/js/3.ac775d8d.chunk.js.map",
+    "index.html": "/ryans_reacting_portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ryans_reacting_portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.661d2a5f.chunk.css.map": "/ryans_reacting_portfolio/static/css/main.661d2a5f.chunk.css.map",
+    "static/js/2.8841dd91.chunk.js.LICENSE.txt": "/ryans_reacting_portfolio/static/js/2.8841dd91.chunk.js.LICENSE.txt",
+    "static/media/portfolio.css": "/ryans_reacting_portfolio/static/media/about-background.56b32d80.jpg",
+    "static/media/employee.9d4cb2fc.png": "/ryans_reacting_portfolio/static/media/employee.9d4cb2fc.png",
+    "static/media/jan14.2825f07d.png": "/ryans_reacting_portfolio/static/media/jan14.2825f07d.png",
+    "static/media/linkedin4.95cdc470.png": "/ryans_reacting_portfolio/static/media/linkedin4.95cdc470.png",
+    "static/media/me.c5c19a2a.jpg": "/ryans_reacting_portfolio/static/media/me.c5c19a2a.jpg",
+    "static/media/moviemadness.500095ef.gif": "/ryans_reacting_portfolio/static/media/moviemadness.500095ef.gif",
+    "static/media/project1.9dec8523.png": "/ryans_reacting_portfolio/static/media/project1.9dec8523.png",
+    "static/media/quiz.80206985.png": "/ryans_reacting_portfolio/static/media/quiz.80206985.png",
+    "static/media/turtles.88a7624a.png": "/ryans_reacting_portfolio/static/media/turtles.88a7624a.png",
+    "static/media/twitter4.a5f008d7.png": "/ryans_reacting_portfolio/static/media/twitter4.a5f008d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1198881.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8841dd91.chunk.js",
+    "static/css/main.661d2a5f.chunk.css",
+    "static/js/main.a8a82a15.chunk.js"
+  ]
+}
